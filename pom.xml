@@ -80,7 +80,7 @@
 
     <properties>
         <!-- Project revision -->
-        <revision>2025.1.0.1-SNAPSHOT</revision>
+        <revision>2026.0.0.0-SNAPSHOT</revision>
 
         <!-- Spring Cloud -->
         <spring.cloud.version>2025.1.2</spring.cloud.version>
